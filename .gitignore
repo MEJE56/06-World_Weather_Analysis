@@ -4,7 +4,11 @@ config.py
 
 # Adding other files
 API_practice.ipynb
+Google_Nearby_Search.ipynb
+Linear Regression.ipynb
 random_numbers.ipynb
+Google_Nearby_Search.ipynb
+try-except.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
